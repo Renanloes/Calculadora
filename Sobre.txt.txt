@@ -1,0 +1,3 @@
+Apresento o calculator3000 na sua versão "1.0.0.0.1.0.1", desenvolvido utilizando a linguagem Java, com a IDE Apache NetBeans na versão "12.6", e com o JDK na versão "17.0.2".
+
+Desenvolvido para satisfazer as necessidades de ganhar nota suficiente na atividade prática avaliativa do professor Gustavo "Labirinto-Man" Garcia de Amo. Este aplicativo possui funcionalidades conceituais básicas de uma calculadora e um conversor de unidades de decimal, binário, octal e hexadecimal. Apesar da linguagem limitar a funcionalidade do conversor referente ao hexadecimal, a ideia encontra-se apresentada.
